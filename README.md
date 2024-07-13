@@ -95,7 +95,3 @@ Contains details about the pizzas included in each order.
 ## Contribution
 
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
